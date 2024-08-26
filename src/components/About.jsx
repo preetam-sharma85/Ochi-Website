@@ -20,7 +20,7 @@ function About() {
           </button>
         </div>
         <div className="w-1/2 h-[65vh] ">
-          <img src="/public/Homepage-Photo.jpg" className="rounded-3xl"/>
+          <img src="https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg" className="rounded-3xl"/>
         </div>
       </div>
     </>
