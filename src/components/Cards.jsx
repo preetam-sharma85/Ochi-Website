@@ -13,13 +13,13 @@ function Cards() {
       </div>
       <div className="cardcontainer w-1/2 flex items-center justify-center gap-5 ">
         <div className="w-1/2 bg-zinc-800 h-[55vh] relative flex items-center justify-center rounded-2xl">
-          <img src="/public/logo002.svg" />
+          <img src="https://ochi.design/wp-content/uploads/2022/04/logo002.svg" />
           <button className="border-[2px] rounded-3xl absolute left-9 bottom-8 px-5 py-1 border-zinc-300 text-zinc-300">
             RATING5.0 ON CLUTCH
           </button>
         </div>
         <div className="w-1/2 bg-zinc-800 h-[55vh] relative flex items-center justify-center rounded-2xl">
-          <img src="https://ochi.design/wp-content/uploads/2022/09/Vise_front2-663x551.jpg" className="rounded-full " />
+          <img src="https://ochi.design/wp-content/uploads/2022/04/logo003.png" className="rounded-full " />
           <button className="border-[2px] rounded-3xl absolute left-6 bottom-8 px-4 py-1 border-zinc-300 text-zinc-300">
             BUSINESS BOOTCAMP ALUMNI
           </button>
