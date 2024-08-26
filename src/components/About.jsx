@@ -20,7 +20,7 @@ function About() {
           </button>
         </div>
         <div className="w-1/2 h-[65vh] ">
-          <img src="/public/Homepage-Photo.jpg" alt="" className="rounded-3xl"/>
+          <img src="/public/Homepage-Photo.jpg" className="rounded-3xl"/>
         </div>
       </div>
     </>
