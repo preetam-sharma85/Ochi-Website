@@ -19,7 +19,7 @@ function Cards() {
           </button>
         </div>
         <div className="w-1/2 bg-zinc-800 h-[55vh] relative flex items-center justify-center rounded-2xl">
-          <img src="/public/logo003.png" className="rounded-full " />
+          <img src="https://ochi.design/wp-content/uploads/2022/09/Vise_front2-663x551.jpg" className="rounded-full " />
           <button className="border-[2px] rounded-3xl absolute left-6 bottom-8 px-4 py-1 border-zinc-300 text-zinc-300">
             BUSINESS BOOTCAMP ALUMNI
           </button>
