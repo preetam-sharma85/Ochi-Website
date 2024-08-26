@@ -5,7 +5,7 @@ function Cards() {
     <div  className="w-full h-[90vh] bg-zinc-300 flex items-center justify-center px-10 ">
       <div className="cardcontainer w-1/2 px-5 py-8">
         <div className="w-full bg-green-700 h-[55vh] relative rounded-2xl flex items-center justify-center">
-          <img src="/public/logo001.svg" />
+          <img src="https://ochi.design/wp-content/uploads/2023/10/Fyde_Illustration_Crypto_2-663x551.png" />
           <button className="border-[2px] rounded-3xl absolute left-9 bottom-8 px-5 py-1 border-lime-400 text-lime-400">
             &copy;2019-2022
           </button>
